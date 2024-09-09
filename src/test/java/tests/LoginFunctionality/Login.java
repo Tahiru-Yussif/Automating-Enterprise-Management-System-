@@ -5,6 +5,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import tests.basetest.BaseTest;
 
+import java.io.IOException;
+
 public class Login extends BaseTest {
 
     @BeforeMethod

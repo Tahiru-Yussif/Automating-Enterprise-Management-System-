@@ -5,6 +5,8 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import tests.basetest.BaseTest;
 
+import java.io.IOException;
+
 public class HomePage extends BaseTest {
 
     @BeforeClass
